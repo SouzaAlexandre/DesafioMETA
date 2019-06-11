@@ -1,0 +1,13 @@
+C:\Users\souza\source\repos\webApiCore\bin\Debug\netcoreapp2.1\webApiCore.deps.json
+C:\Users\souza\source\repos\webApiCore\bin\Debug\netcoreapp2.1\webApiCore.runtimeconfig.json
+C:\Users\souza\source\repos\webApiCore\bin\Debug\netcoreapp2.1\webApiCore.runtimeconfig.dev.json
+C:\Users\souza\source\repos\webApiCore\bin\Debug\netcoreapp2.1\webApiCore.dll
+C:\Users\souza\source\repos\webApiCore\obj\Debug\netcoreapp2.1\webApiCore.csproj.CoreCompileInputs.cache
+C:\Users\souza\source\repos\webApiCore\obj\Debug\netcoreapp2.1\webApiCore.RazorAssemblyInfo.cache
+C:\Users\souza\source\repos\webApiCore\obj\Debug\netcoreapp2.1\webApiCore.RazorAssemblyInfo.cs
+C:\Users\souza\source\repos\webApiCore\obj\Debug\netcoreapp2.1\webApiCore.AssemblyInfoInputs.cache
+C:\Users\souza\source\repos\webApiCore\obj\Debug\netcoreapp2.1\webApiCore.AssemblyInfo.cs
+C:\Users\souza\source\repos\webApiCore\obj\Debug\netcoreapp2.1\webApiCore.RazorTargetAssemblyInfo.cache
+C:\Users\souza\source\repos\webApiCore\bin\Debug\netcoreapp2.1\webApiCore.pdb
+C:\Users\souza\source\repos\webApiCore\obj\Debug\netcoreapp2.1\webApiCore.dll
+C:\Users\souza\source\repos\webApiCore\obj\Debug\netcoreapp2.1\webApiCore.pdb

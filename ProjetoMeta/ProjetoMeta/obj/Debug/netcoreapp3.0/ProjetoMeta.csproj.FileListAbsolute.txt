@@ -1,0 +1,12 @@
+C:\Users\souza\source\repos\ProjetoMeta\ProjetoMeta\bin\Debug\netcoreapp3.0\ProjetoMeta.exe
+C:\Users\souza\source\repos\ProjetoMeta\ProjetoMeta\bin\Debug\netcoreapp3.0\ProjetoMeta.deps.json
+C:\Users\souza\source\repos\ProjetoMeta\ProjetoMeta\bin\Debug\netcoreapp3.0\ProjetoMeta.runtimeconfig.json
+C:\Users\souza\source\repos\ProjetoMeta\ProjetoMeta\bin\Debug\netcoreapp3.0\ProjetoMeta.runtimeconfig.dev.json
+C:\Users\souza\source\repos\ProjetoMeta\ProjetoMeta\bin\Debug\netcoreapp3.0\ProjetoMeta.dll
+C:\Users\souza\source\repos\ProjetoMeta\ProjetoMeta\bin\Debug\netcoreapp3.0\ProjetoMeta.pdb
+C:\Users\souza\source\repos\ProjetoMeta\ProjetoMeta\obj\Debug\netcoreapp3.0\ProjetoMeta.csproj.CoreCompileInputs.cache
+C:\Users\souza\source\repos\ProjetoMeta\ProjetoMeta\obj\Debug\netcoreapp3.0\ProjetoMeta.AssemblyInfoInputs.cache
+C:\Users\souza\source\repos\ProjetoMeta\ProjetoMeta\obj\Debug\netcoreapp3.0\ProjetoMeta.AssemblyInfo.cs
+C:\Users\souza\source\repos\ProjetoMeta\ProjetoMeta\obj\Debug\netcoreapp3.0\ProjetoMeta.dll
+C:\Users\souza\source\repos\ProjetoMeta\ProjetoMeta\obj\Debug\netcoreapp3.0\ProjetoMeta.pdb
+C:\Users\souza\source\repos\ProjetoMeta\ProjetoMeta\obj\Debug\netcoreapp3.0\ProjetoMeta.csprojAssemblyReference.cache
